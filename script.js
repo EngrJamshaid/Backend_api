@@ -96,7 +96,7 @@ fetch("http://localhost/api/fetchinsert.php", {
 
 
 
-
+ 
 
 
     // delete button works 
