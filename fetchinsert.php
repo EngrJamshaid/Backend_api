@@ -1,8 +1,8 @@
 <?php
-header('Content-Type:application/json');
-header('Acess-Control-Allow-Origin:*');
-header('Acess-Control-Allow-Methods:POST');
-header('Acess-Control-Allow-Headers:Acess-Control-Allow-Headers,Contant-Type,Access-control-Allow-Methods,Authorization,X-Requested-With');
+header('Content-Type: application/json');
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: POST');
+header('Access-Control-Allow-Headers: Access-Control-Allow-Headers, Content-Type, Access-Control-Allow-Methods, Authorization, X-Requested-With');
 
 include "db.php";
 
